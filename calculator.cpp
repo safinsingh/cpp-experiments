@@ -1,14 +1,14 @@
 #include <iostream>
 using namespace std;
 
-float test(float num1, float num2,char Operator)
+float test(float num1, float num2, char Operator)
 {
     
 
     float temp; 
     cout << "Number 1 is " << num1 << endl;
     cout << "Number 2 is " << num2 << endl;
-    cout << "Operator is: " <<Operator<<endl;
+    cout << "Operator is: " << Operator << endl;
   
 
     switch(Operator)
