@@ -1,9 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// click on >_STDIN
-// in input bar Enter your name then [space] your address 
-// then [space] your PhoneNumber and hit run
 int main() {
     string name;
     string address;
